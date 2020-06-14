@@ -1,7 +1,8 @@
-#V Project#
-
 Module {
-	name: 'archiver',
+	name: 'webhippie.archiver',
 	description: 'Archive your photos and videos',
-	dependencies: []
+	version: '1.0.0-alpha1',
+	dependencies: [
+		'nedpals.vargs'
+	]
 }
