@@ -5,8 +5,6 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/10ee4fbddcfd46de812930f5b776a17d)](https://www.codacy.com/gh/webhippie/archiver?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=webhippie/archiver&amp;utm_campaign=Badge_Grade)
 [![](https://images.microbadger.com/badges/image/tboerger/archiver.svg)](http://microbadger.com/images/tboerger/archiver "Get your own image badge on microbadger.com")
 
-**This project is under heavy development, it's not in a working state yet!**
-
 TBD
 
 ## Install
@@ -27,7 +25,7 @@ make build
 
 ## Security
 
-If you find a security issue please contact thomas@webhippie.de first.
+If you find a security issue please contact <thomas@webhippie.de> first.
 
 ## Contributing
 
@@ -35,7 +33,7 @@ Fork -> Patch -> Push -> Pull Request
 
 ## Authors
 
-* [Thomas Boerger](https://github.com/tboerger)
+*  [Thomas Boerger](https://github.com/tboerger)
 
 ## License
 
@@ -43,6 +41,6 @@ Apache-2.0
 
 ## Copyright
 
-```
+```console
 Copyright (c) 2020 Thomas Boerger <thomas@webhippie.de>
 ```
