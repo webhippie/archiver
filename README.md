@@ -25,7 +25,7 @@ make build
 
 ## Security
 
-If you find a security issue please contact <thomas@webhippie.de> first.
+If you find a security issue please contact <mailto:thomas@webhippie.de> first.
 
 ## Contributing
 
@@ -33,7 +33,7 @@ Fork -> Patch -> Push -> Pull Request
 
 ## Authors
 
-*  [Thomas Boerger](https://github.com/tboerger)
+  * [Thomas Boerger](https://github.com/tboerger)
 
 ## License
 
