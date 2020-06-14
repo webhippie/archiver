@@ -15,7 +15,7 @@ TBD
 
 Make sure you have a working Vlang environment, for further reference or a guide take a look at the [install instructions](https://vlang.io/).
 
-```bash
+```console
 git clone https://github.com/webhippie/archiver.git
 cd archiver
 
@@ -33,7 +33,7 @@ Fork -> Patch -> Push -> Pull Request
 
 ## Authors
 
-  * [Thomas Boerger](https://github.com/tboerger)
+*   [Thomas Boerger](https://github.com/tboerger)
 
 ## License
 
