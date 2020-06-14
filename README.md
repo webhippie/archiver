@@ -2,7 +2,7 @@
 
 [![Build Status](https://cloud.drone.io/api/badges/webhippie/archiver/status.svg)](https://cloud.drone.io/webhippie/archiver)
 [![Join the Matrix chat at https://matrix.to/#/#webhippie:matrix.org](https://img.shields.io/badge/matrix-%23webhippie-7bc9a4.svg)](https://matrix.to/#/#webhippie:matrix.org)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9833f3cc84c146a2a13cb8fa5543c11e)](https://www.codacy.com/app/webhippie/archiver?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=webhippie/archiver&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/10ee4fbddcfd46de812930f5b776a17d)](https://www.codacy.com/gh/webhippie/archiver?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=webhippie/archiver&amp;utm_campaign=Badge_Grade)
 [![](https://images.microbadger.com/badges/image/tboerger/archiver.svg)](http://microbadger.com/images/tboerger/archiver "Get your own image badge on microbadger.com")
 
 **This project is under heavy development, it's not in a working state yet!**
