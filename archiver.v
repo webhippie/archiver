@@ -4,7 +4,7 @@ import os
 import nedpals.vargs
 
 const (
-	VERSION = '1.0.0-alpha1'
+	version = '1.0.0-alpha1'
 )
 
 fn main() {
@@ -37,7 +37,7 @@ fn help() {
 }
 
 fn version() {
-	println('archiver v$VERSION')
+	println('archiver v$version')
 }
 
 fn fallback(cmd string) {
